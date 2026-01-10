@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0804-unique-morse-code-words](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0806-number-of-lines-to-write-string) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0804-unique-morse-code-words](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0804-unique-morse-code-words) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## String
 |  |
 | ------- |
+| [0804-unique-morse-code-words](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0806-number-of-lines-to-write-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3798-largest-even-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3798-largest-even-number) |
