@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0804-unique-morse-code-words](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0804-unique-morse-code-words) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0804-unique-morse-code-words](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0806-number-of-lines-to-write-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -35,6 +37,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
