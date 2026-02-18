@@ -61,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0067-add-binary) |
+| [0693-binary-number-with-alternating-bits](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
