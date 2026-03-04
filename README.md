@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0806-number-of-lines-to-write-string) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
