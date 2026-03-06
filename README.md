@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3798-largest-even-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3798-largest-even-number) |
 ## Simulation
