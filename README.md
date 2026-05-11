@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting
 |  |
 | ------- |
