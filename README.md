@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0806-number-of-lines-to-write-string) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0989-add-to-array-form-of-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0067-add-binary) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0989-add-to-array-form-of-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [2544-alternating-digit-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2544-alternating-digit-sum) |
 ## Hash Table
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
