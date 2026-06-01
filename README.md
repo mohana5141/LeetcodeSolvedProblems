@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
