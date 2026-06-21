@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
@@ -115,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
