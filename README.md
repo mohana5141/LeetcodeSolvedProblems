@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [2544-alternating-digit-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2544-alternating-digit-sum) |
+| [3945-digit-frequency-score](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
