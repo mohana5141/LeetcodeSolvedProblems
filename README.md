@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [2544-alternating-digit-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2544-alternating-digit-sum) |
+| [3908-valid-digit-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
