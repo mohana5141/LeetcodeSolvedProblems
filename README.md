@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3889-mirror-frequency-distance](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3889-mirror-frequency-distance) |
 | [3945-digit-frequency-score](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3798-largest-even-number) |
+| [3889-mirror-frequency-distance](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3889-mirror-frequency-distance) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3889-mirror-frequency-distance](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
