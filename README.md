@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3866-first-unique-even-element) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Greedy
 |  |
 | ------- |
