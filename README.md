@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
