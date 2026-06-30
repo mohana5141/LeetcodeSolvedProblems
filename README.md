@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3853-merge-close-characters](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3853-merge-close-characters) |
 | [3866-first-unique-even-element](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3866-first-unique-even-element) |
 | [3889-mirror-frequency-distance](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3889-mirror-frequency-distance) |
 | [3945-digit-frequency-score](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3945-digit-frequency-score) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3798-largest-even-number) |
+| [3853-merge-close-characters](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3853-merge-close-characters) |
 | [3889-mirror-frequency-distance](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3889-mirror-frequency-distance) |
 ## Simulation
 |  |
