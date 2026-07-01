@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [2544-alternating-digit-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2544-alternating-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3894-traffic-signal-color](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3945-digit-frequency-score) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3798-largest-even-number) |
 | [3853-merge-close-characters](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3853-merge-close-characters) |
 | [3889-mirror-frequency-distance](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3889-mirror-frequency-distance) |
+| [3894-traffic-signal-color](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
 | ------- |
