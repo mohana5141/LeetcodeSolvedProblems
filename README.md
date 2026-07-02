@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3668-restore-finishing-order](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3668-restore-finishing-order](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3853-merge-close-characters](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3853-merge-close-characters) |
