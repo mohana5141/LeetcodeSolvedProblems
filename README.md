@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3668-restore-finishing-order](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3668-restore-finishing-order](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3798-largest-even-number) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3612-process-string-with-special-operations-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3894-traffic-signal-color) |
