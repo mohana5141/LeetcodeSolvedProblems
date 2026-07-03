@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3285-find-indices-of-stable-mountains](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3668-restore-finishing-order](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
