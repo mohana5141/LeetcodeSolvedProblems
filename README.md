@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2678-number-of-senior-citizens](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3612-process-string-with-special-operations-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3701-compute-alternating-sum) |
