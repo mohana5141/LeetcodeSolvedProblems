@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3285-find-indices-of-stable-mountains) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2678-number-of-senior-citizens](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3612-process-string-with-special-operations-i) |
