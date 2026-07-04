@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3668-restore-finishing-order](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3668-restore-finishing-order) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3668-restore-finishing-order](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3866-first-unique-even-element) |
