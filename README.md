@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0806-number-of-lines-to-write-string) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1288-remove-covered-intervals](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1288-remove-covered-intervals) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
+| [1288-remove-covered-intervals](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
