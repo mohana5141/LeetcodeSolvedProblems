@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1390-four-divisors) |
 | [2544-alternating-digit-sum](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2544-alternating-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3895-count-digit-appearances) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
