@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
