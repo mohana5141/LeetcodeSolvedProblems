@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0806-number-of-lines-to-write-string) |
+| [0905-sort-array-by-parity](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1288-remove-covered-intervals](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1288-remove-covered-intervals) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/0905-sort-array-by-parity) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
