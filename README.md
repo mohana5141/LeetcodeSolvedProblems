@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2643-row-with-maximum-ones) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2678-number-of-senior-citizens](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/mohana5141/LeetcodeSolvedProblems/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
